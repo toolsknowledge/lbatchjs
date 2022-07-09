@@ -1,0 +1,63 @@
+Variables
+*********
+    Variables are used to store the data
+    Ex.
+        string
+        number
+        boolean
+        arrays
+        objects
+        ---
+        ---
+        ---
+    we will declare Variables in 3 ways
+
+    1) var
+    2) let
+    3) const
+
+
+    let & const keywords introduced in ES6
+
+    Variables declaration should contain a-z, A-Z, 0-9, $ and _
+
+    Variables declaration should not start with digits
+
+Syntax
+
+    var/let/const variablename = value;
+
+Ex.
+    var msg = "welcome to javascript";
+
+    where "msg" is the variable name
+
+    javascript supports following datatypes
+
+        1) string
+
+        2) number
+
+        3) boolean
+
+        4) undefined
+
+        5) null
+
+        6) bigint
+
+        7) Symbol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
