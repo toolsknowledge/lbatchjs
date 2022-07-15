@@ -159,6 +159,7 @@ var _123abc;
 //var abc#123;        //Error
 //var var;              //Error
 
+
 //typeof
 //used to know the datatype
 console.log(typeof "Hello");//string
